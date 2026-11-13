@@ -1,5 +1,7 @@
 # design-md-skill
 
+[English README](README.en.md)
+
 一个给 AI 编程代理（Claude Code、Codex 等支持 Agent Skills 的工具）用的 Skill：内置 84 份按知名产品风格整理的 `DESIGN.md` 设计规范。你只需要用自然语言描述想要的风格，比如「科技风」「高级感」「像 Linear 那样」，代理就会自己从索引里挑出最合适的 1～2 份来读，**不会把整个库塞进上下文**。
 
 An Agent Skill bundling 84 `DESIGN.md` design systems inspired by well-known products, with a bilingual (中文/English) style index so agents can pick the right one from a natural-language request — without loading the whole library into context.
